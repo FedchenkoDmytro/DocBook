@@ -31,3 +31,4 @@ The app will be available at `http://localhost:5000/swagger/index.html` by defau
 
 ## Postman Collection
 I have added scripts to the Postman collection methods for convenient interaction with the API endpoints.
+- Postman collection file name `DocBook.WebAPI.postman_collection.json`
